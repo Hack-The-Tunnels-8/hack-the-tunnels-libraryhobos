@@ -1,0 +1,26 @@
+/* styles.scss */
+body {
+    background-color: #8d1616;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.error-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.error-title {
+    font-size: 36px;
+    color: #e74c3c;
+}
+
+.error-message {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
